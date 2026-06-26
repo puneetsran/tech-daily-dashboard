@@ -1,6 +1,6 @@
 # Tech Daily
 
-![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpuneetsran%2Ftech-daily-dashboard&count_bg=%238A2BE2&title_bg=%23555555&title=views&edge_flat=true)
+![Views](https://komarev.com/ghpvc/?username=puneetsran-tech-daily-dashboard&label=views&color=blueviolet&style=flat-square)
 
 A daily dashboard showing GitHub's newest trending repositories and Hacker News top stories.
 
